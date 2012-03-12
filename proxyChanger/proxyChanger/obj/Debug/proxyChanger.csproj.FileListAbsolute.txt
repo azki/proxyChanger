@@ -1,0 +1,8 @@
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\obj\Debug\ResolveAssemblyReference.cache
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\obj\Debug\proxyChanger.Form1.resources
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\obj\Debug\proxyChanger.Properties.Resources.resources
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\obj\Debug\proxyChanger.csproj.GenerateResource.Cache
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\bin\Debug\proxyChanger.exe
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\bin\Debug\proxyChanger.pdb
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\obj\Debug\proxyChanger.exe
+E:\My Dropbox\src\proxyChanger\proxyChanger\proxyChanger\obj\Debug\proxyChanger.pdb
